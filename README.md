@@ -1,2 +1,5 @@
 # CSharp-Battery-monitor
-Using Bunifu UI Library
+
+Using C# and the Bunifu UI Library
+
+![alt text](https://github.com/NjengaElijah/CSharp-Battery-monitor/blob/master/s11.PNG)
